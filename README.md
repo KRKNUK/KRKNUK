@@ -1,17 +1,10 @@
-### Hi there 👋
+# Jake Mundy
 
-<!--
-**KRKNUK/KRKNUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills and experince
+ - 🌩 Cloud infrastructure design
+ - 💻 AWS
+ - ⚡ Terraform
 
-Here are some ideas to get you started:
--->
-
-- 🔭 I’m currently working with Terraform on AWS and Azure.
-- 🌱 I’m currently learning Terraform and the in's and out's of Github.
-- 👯 I’m looking to collaborate on Terraform or AWS based IaaS projects.
-- 🤔 I’m looking for help with Azure Managed service identities and Terraform. 
-- 💬 Ask me about AWS.
-- 📫 How to reach me: Please open an issue and I'll get back to you. 
-- ⚡ Fun fact: I'm still learning.
-
-[![KRKNUK's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRKNUK)](https://github.com/anuraghazra/github-readme-stats)
+## About me
+I'm a techincal consultant for a Northwest, UK based IT consultancy.
+- 🔭 I’m currently working with Terraform for AWS and Azure and MDM using Intune.
