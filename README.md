@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about AWS.
 - 📫 How to reach me: Please open an issue and I'll get back to you. 
 - ⚡ Fun fact: I'm still learning.
+
+[![KRKNUK's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRKNUK)](https://github.com/anuraghazra/github-readme-stats)
