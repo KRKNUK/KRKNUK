@@ -2,6 +2,7 @@
 
 ## Skills and experince
  - 🌩 AWS & Azure
+ - 🤖 Devops
  - ⚡ Terraform
  - 💪 Bicep
  - 💻 Mobile Device Management
