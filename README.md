@@ -1,5 +1,7 @@
 # Jake Mundy
 
+![Jake Mundy](https://github.com/KRKNUK/KRKNUK/images/banner.png)
+
 ## Skills and experince
  - 🌩 AWS & Azure
  - 🤖 Devops
