@@ -1,6 +1,6 @@
 # Jake Mundy
 
-![Jake Mundy](https://github.com/KRKNUK/KRKNUK/blob/main/images/banner.png)
+![Jake Mundy](https://github.com/KRKNUK/KRKNUK/blob/main/images/banner_cloud.png)
 
 ## Skills and experince
 
