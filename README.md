@@ -9,6 +9,7 @@
 - ⚡ Terraform
 - 💪 Bicep
 - 💻 Mobile Device Management
+- 🧙‍♂️ PowerShell
 
 ## About me
 
