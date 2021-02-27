@@ -12,6 +12,6 @@
 
 ## About me
 
-I'm a techincal consultant for a Northwest, UK.
+I'm a techincal consultant working in the  Northwest of the UK.
 
 - 🔭 I’m currently working with Terraform for AWS & Azure, and MDM using Intune.
